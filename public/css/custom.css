@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+}
+.custom-input{
+    border: 2px solid #0D47A1; 
+    background-color: #E3F2FD;
+}
+.navy-blue{
+    background-color: #0D47A1;
+}
+.light-blue{
+    background-color: #E3F2FD;
+}
+.text-bold{
+    font-weight: bold;
+}
+.w-300px{
+    max-width: 300px;
+}
+.w-100px{
+    max-width: 100px;
+}
+.nav-img-width{
+    max-width: 200px;
+}
+.w-50px{
+    width: 50px;
+    height: 50px;
+}
+.heroimage {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),
+                url('./imges/boss.png') lightgray center/cover no-repeat fixed;
+}
+.navbar {
+    margin-bottom: 0; /* Ensures no space below the navbar */
+    padding-bottom: 0;
+}
+.container {
+    margin-bottom: 0; /* Ensures no space below the navbar */
+    padding-bottom: 0;
+}
